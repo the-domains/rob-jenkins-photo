@@ -1,7 +1,7 @@
 name: Rob Jenkins Photo
 favicon: null
-layout_spectrum: 0.22584910108707845
-typography_spectrum: 0.9404648838099092
+layout_spectrum: 0.97822
+typography_spectrum: 0.26918
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#171516'
+    - '#6e98b0'
+    - '#b6d0dd'
+    - '#b63844'
   brandStrength: 0.25
   lightness: 0.375
   saturation: 0.125
